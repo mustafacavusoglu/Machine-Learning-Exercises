@@ -1,0 +1,39 @@
+##################################################
+TEK PARAMETRELİ            
+                       
+Linear
+R-squared (uncentered):                   0.942
+
+Poly
+R-squared (uncentered):                   0.759
+
+SVR
+R-squared (uncentered):                   0.770
+
+DecisionTree
+R-squared (uncentered):                   0.751
+
+RandomForest
+R-squared (uncentered):                   0.719
+
+###################################################
+
+###################################################
+ÇOK PARAMETRELİ
+
+Linear
+R-squared (uncentered):                   0.903
+
+Poly
+R-squared (uncentered):                   0.680
+
+SVR
+R-squared (uncentered):                   0.782
+
+DecisionTree
+R-squared (uncentered):                   0.679
+
+RandomForest
+R-squared (uncentered):                   0.713
+
+###################################################
