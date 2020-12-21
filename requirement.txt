@@ -1,7 +1,7 @@
-sklearn
+scikit-learn
 pandas
 numpy
-keras
+Keras
 tensorflow
 matplotlib
 nltk
